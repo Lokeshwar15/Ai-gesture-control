@@ -1,0 +1,2 @@
+-r requirements.txt
+pyautogui>=0.9.54
